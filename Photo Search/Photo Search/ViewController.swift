@@ -7,9 +7,6 @@
 
 import UIKit
 
-// Access Key: fYBWL6wjkafG5m5gNkmULMhNdSWhBtWE_THGKlAg0Jw
-// Secret Key: NjAdlopx8N3bMG0rHs8TY55DjL8CJMZvpN0QUFHHqLk
-
 struct APIResponse: Codable {
     let total: Int
     let total_pages: Int
